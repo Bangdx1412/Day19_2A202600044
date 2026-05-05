@@ -1,0 +1,19 @@
+OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, and Ilya Sutskever in 2015. OpenAI is headquartered in San Francisco. OpenAI developed GPT-4, which is a large language model. Sam Altman is the CEO of OpenAI. OpenAI raised $10 billion from Microsoft in 2023.
+
+Google was founded by Larry Page and Sergey Brin in 1998. Google is headquartered in Mountain View, California. Sundar Pichai is the CEO of Google. Google developed TensorFlow, which is an open-source machine learning framework. Google acquired DeepMind in 2014 for $500 million. Google released Gemini in 2023, which is a multimodal AI model.
+
+Microsoft was founded by Bill Gates and Paul Allen in 1975. Microsoft is headquartered in Redmond, Washington. Satya Nadella is the CEO of Microsoft. Microsoft invested $10 billion in OpenAI in 2023. Microsoft developed Azure, which is a cloud computing platform. Microsoft acquired GitHub in 2018 for $7.5 billion.
+
+Meta was founded by Mark Zuckerberg in 2004. Meta is headquartered in Menlo Park, California. Mark Zuckerberg is the CEO of Meta. Meta developed PyTorch, which is an open-source machine learning framework. Meta released LLaMA, which is an open-source large language model. Meta acquired Instagram in 2012 for $1 billion.
+
+Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976. Apple is headquartered in Cupertino, California. Tim Cook is the CEO of Apple. Apple developed the iPhone in 2007. Apple developed the M1 chip, which is a system-on-chip. Apple acquired Siri in 2010.
+
+Amazon was founded by Jeff Bezos in 1994. Amazon is headquartered in Seattle, Washington. Andy Jassy is the CEO of Amazon. Amazon developed AWS, which is a cloud computing platform. Amazon acquired Whole Foods in 2017 for $13.7 billion. Amazon developed Alexa, which is a voice assistant.
+
+NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem in 1993. Jensen Huang is the CEO of NVIDIA. NVIDIA is headquartered in Santa Clara, California. NVIDIA developed the H100 GPU, which is used for AI training. NVIDIA developed CUDA, which is a parallel computing platform. NVIDIA acquired Mellanox in 2020 for $6.9 billion.
+
+Tesla was founded by Martin Eberhard and Marc Tarpenning in 2003. Elon Musk joined Tesla as chairman in 2004 and became CEO in 2008. Tesla is headquartered in Austin, Texas. Tesla developed Autopilot, which is a self-driving system. Tesla developed the Model S, which is an electric vehicle.
+
+DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman in 2010. DeepMind is headquartered in London. DeepMind was acquired by Google in 2014. DeepMind developed AlphaGo, which defeated Lee Sedol in 2016. DeepMind developed AlphaFold, which predicts protein structures.
+
+Anthropic was founded by Dario Amodei and Daniela Amodei in 2021. Dario Amodei is the CEO of Anthropic. Anthropic is headquartered in San Francisco. Anthropic developed Claude, which is a large language model. Anthropic raised $7.3 billion from Amazon in 2023. Anthropic raised $300 million from Google in 2023.
